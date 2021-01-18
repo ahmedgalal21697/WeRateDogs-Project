@@ -1,8 +1,8 @@
 # WeRateDogs-Project
 Data Wrangling Project
-Real-world data rarely comes clean. Using Python and its libraries, I have gathered gather data from a variety of sources and in a variety of formats, 
+Real-world data rarely comes clean. Using Python and its libraries, I have gathered data from a variety of sources and in a variety of formats, 
 assessed its quality and tidiness, then cleaned it. This is called data wrangling. I have documented my wrangling efforts in a Jupyter Notebook, 
-plus showcase them through analyses and visualizations using Python (and its libraries) and/or SQL.
+plus showcase them through analyses and visualizations using Python (and its libraries).
 
 The dataset that I have wrangled (and analyzed and visualized) is the tweet archive of Twitter user @dog_rates, 
 also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. 
